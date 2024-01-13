@@ -13,7 +13,10 @@ Our application leverages WebRTC to facilitate real-time video streaming between
 ### 2. Peer-to-Peer Communication
 
 WebRTC establishes a direct connection between users, enabling peer-to-peer communication. This decentralized approach minimizes latency and enhances the overall user experience, especially in scenarios where instant interaction is crucial.
-![P2P communication](url/to/image.png)
+
+<p align="center">
+  <img src="./1*D0OSxkLJAPZXnmja2Fvq3A.webp" alt="WebRTC Logo">
+</p>
 
 ## Getting Started
 
